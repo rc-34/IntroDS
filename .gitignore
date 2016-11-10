@@ -49,7 +49,6 @@ Thumbs.db
 *.gmtcommands4
 *gmt.history
 *.ps
-*.png
 *.conf
 
 # NETCDF FILES #
@@ -64,8 +63,6 @@ Thumbs.db
 # OTHERS #
 ##########
 *.dat
-*.png
-*.svg
 *.graffle
 *.tmp
 *.xslx
