@@ -1,0 +1,17 @@
+.two-floating-elements p {
+    /*max-width: 70%;*/
+    float:left;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+
+.two-floating-elements ul {
+    max-width: 60%;
+    float:right;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 100px;
+  }
