@@ -25,49 +25,35 @@ at **[Twin Solutions](http://www.twinsol.com/)**
 ---
 ## Data science
 
-is related to  
+is related to  ???  
 - Data Mining , Machine Learning , Predictive Analysis, Data visualization, ...
 
 <!-- .element: class="fragment" -->
 
-<iframe class=fragment src="//giphy.com/embed/glmRyiSI3v5E4" width="480" height="353" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p class="fragment"><a href="http://giphy.com/gifs/glmRyiSI3v5E4"></a>
+<div class="fragment">
+<iframe src="//giphy.com/embed/glmRyiSI3v5E4" width="480" height="353" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/glmRyiSI3v5E4"></a>
 [Check the debate on Quora](https://www.quora.com/Whats-the-relationship-between-machine-learning-and-data-mining)
 </p>
+</div class="fragment">
 
+--!
+## Data science
 
-<!-- .element: class="fragment" -->
+![datascience-venndiagram](assets/datascience_skills_venn_diagram2.png)
+<small>*by* [Christi Eubanks](http://blogs.gartner.com/christi-eubanks/three-lessons-crossfit-taught-data-science/)</small>
 
+--!
+## Data science
+####To address
+  - Classification
+  - Regression
+  - Clustering
+  - Pattern recognition
+  - Time Series
+  - ...  
 
-<!-- - A rebranding of Data mining?
-- Encompass  
-    - Classification
-    - Regression
-    - Time Series Analysis
-    - Deep learning
-    - Association rules
-    - Patterns recognition
-    - ... -->
-
----
-## Finally, if you're interested
-<!-- .slide: data-background="#e29191" -->
-You shouldn't look like this
-
-![That's me](assets/me.jpg)
-
----
-<!-- .slide: data-transition="zoom" data-background="#91d87b" -->
-
-but rather like this!
-
-![A Data scientist](assets/dsdesc.png)<!-- .element: width="45%" -->  
-
-
----
-
-##The End!
-
-```
-> print(theEnd)
-[1] "That's all Folks!"
-```
+####with
+  - Statistics
+  - Machine learning
+  - Deep learning
+  - ...
