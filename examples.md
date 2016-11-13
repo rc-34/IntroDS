@@ -1,6 +1,6 @@
 ## Few Examples
 
-####Classification
+###Classification
 
 <div class="side-by-side">
   <div class="side">
@@ -67,7 +67,7 @@
 <p> Typical convnet example </p>
 
 --!
-####Regression
+###Regression
 
 <div class="side-by-side">
   <div class="side">
@@ -84,13 +84,13 @@
 ####Algorithms you already know?
 
 - Linear Regression
+- Multivariate Regression
 - Polynomial Regression
 - Neural networks
 - Decision trees
 
-
 --!
-####Clustering
+###Clustering
 
 <div class="side-by-side">
   <div class="side">
@@ -104,9 +104,9 @@
 </div>
 
 --!
-####Few Algorithms?
+####Some Algorithms
 
-<div class="side-by-side fragment">
+<div class="side-by-side">
   <div class="side">
     <img width="30%" src="assets/kmeans.png" alt="kmeans"/>
     <p><small>Kmeans</small></p>
@@ -118,12 +118,12 @@
 </div>
 
 --!
-####Few Algorithms?
+####Others
 
 <a href="http://scikit-learn.org/stable/modules/clustering.html" rel="clusteringmethods">![clusteringmethods](assets/clusteringmethods.png)</a>
 
 --!
-####Time series
+###Time series
 
 <div class="side-by-side">
   <div class="side">
@@ -158,5 +158,11 @@
 --!
 ####ARIMA
 
+![ARIMA](assets/ARIMA.png)<!-- .element: class="plain"  -->
+
+**A**uto **R**egressive **I**ntegrated **M**oving **A**verage
+
 --!
 ####Autoregressive Neural network
+
+![Arnnet](assets/ARnnet.jpeg)

@@ -9,4 +9,10 @@
 - Go to [http://127.0.0.1:10000](http://127.0.0.1:10000)
 - Create your free DSS account **with your institutional email (xxxx@univ-montp.fr)**
 - Report any issue
-- You're free to go!<!-- .element: class="fragment" -->
+
+---
+<!-- .slide: data-transition="zoom" data-background="#111111" -->
+
+<h3 class="coral">You're Free!</h3>
+
+<iframe src="//giphy.com/embed/7kn27lnYSAE9O" width="480" height="372" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/running-muppets-7kn27lnYSAE9O"></a></p>

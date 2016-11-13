@@ -30,3 +30,7 @@
       display: flex; }
     .side-by-side .side + .side {
       margin-left: 2rem; }
+
+h3.coral {
+  color: coral;
+}
