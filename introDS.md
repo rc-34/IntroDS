@@ -7,7 +7,7 @@ Romain Chailan
 <a href="https://fr.linkedin.com/in/romain-chailan-24246140" rel="rc linkedin">![Linkedin](assets/linkedinlogo.svg)<!-- .element: class="plain" width="40px" -->
 <a href="https://twitter.com/RomChailan" rel="rc twitter">![Twitter](assets/twitterlogo.svg)<!-- .element: class="plain" width="40px" -->
 <a href="https://github.com/rc-34" rel="rc githublogo">![Twitter](assets/githublogo.svg)<!-- .element: class="plain" width="40px" -->
-<a href="https://twitter.com/RomChailan" rel="rc researchgate">![Twitter](assets/researchgatelogo.png)<!-- .element: class="plain" width="40px" -->  
+<a href="https://www.researchgate.net/profile/Romain_Chailan" rel="rc researchgate">![Twitter](assets/researchgatelogo.png)<!-- .element: class="plain" width="40px" -->  
 
 ---
 
@@ -53,7 +53,7 @@ is related to  ???
   - ...  
 
 ####with
-  - Statistics
-  - Machine learning
-  - Deep learning
+  - Statistical Analysis
+  - Machine learning and Artificial Intelligence
+  - Visual Analytics (and data analytics)
   - ...
