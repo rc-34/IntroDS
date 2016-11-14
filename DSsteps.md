@@ -63,7 +63,7 @@ Why would I use Principal Components Analysis or Multiple Correspondence Analysi
 
 Check algorithms in [previous section](../#/3)
 
-![validation2](assets/validation2.png)<!-- .element: class="plain" width="70%"  -->
+![validation2](assets/validation2.png)<!-- .element: class="plain" width="90%"  -->
 
 --!
 ###Data Validation (Regression)
