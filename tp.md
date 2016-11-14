@@ -7,7 +7,7 @@
 - Import the VM
 - Start the VM
 - Go to [http://127.0.0.1:10000](http://127.0.0.1:10000)
-- Create your free DSS account **with your institutional email (xxxx@univ-montp.fr)**
+- Create your free DSS account **with your institutional email (xxxx@umontpellier.fr)**
 - Report any issue
 
 ---
